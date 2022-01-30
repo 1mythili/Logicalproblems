@@ -1,0 +1,15 @@
+C:\Users\ELCOT\source\repos\LogicalProblems\LogicalProblems\obj\Debug\net6.0\LogicalProblems.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\LogicalProblems\LogicalProblems\obj\Debug\net6.0\LogicalProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELCOT\source\repos\LogicalProblems\LogicalProblems\obj\Debug\net6.0\LogicalProblems.AssemblyInfoInputs.cache
+C:\Users\ELCOT\source\repos\LogicalProblems\LogicalProblems\obj\Debug\net6.0\LogicalProblems.AssemblyInfo.cs
+C:\Users\ELCOT\source\repos\LogicalProblems\LogicalProblems\obj\Debug\net6.0\LogicalProblems.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\LogicalProblems\LogicalProblems\bin\Debug\net6.0\LogicalProblems.exe
+C:\Users\ELCOT\source\repos\LogicalProblems\LogicalProblems\bin\Debug\net6.0\LogicalProblems.deps.json
+C:\Users\ELCOT\source\repos\LogicalProblems\LogicalProblems\bin\Debug\net6.0\LogicalProblems.runtimeconfig.json
+C:\Users\ELCOT\source\repos\LogicalProblems\LogicalProblems\bin\Debug\net6.0\LogicalProblems.dll
+C:\Users\ELCOT\source\repos\LogicalProblems\LogicalProblems\bin\Debug\net6.0\ref\LogicalProblems.dll
+C:\Users\ELCOT\source\repos\LogicalProblems\LogicalProblems\bin\Debug\net6.0\LogicalProblems.pdb
+C:\Users\ELCOT\source\repos\LogicalProblems\LogicalProblems\obj\Debug\net6.0\LogicalProblems.dll
+C:\Users\ELCOT\source\repos\LogicalProblems\LogicalProblems\obj\Debug\net6.0\ref\LogicalProblems.dll
+C:\Users\ELCOT\source\repos\LogicalProblems\LogicalProblems\obj\Debug\net6.0\LogicalProblems.pdb
+C:\Users\ELCOT\source\repos\LogicalProblems\LogicalProblems\obj\Debug\net6.0\LogicalProblems.genruntimeconfig.cache
